@@ -1,0 +1,4 @@
+member:
+  max:
+    book:
+      limit: 10
